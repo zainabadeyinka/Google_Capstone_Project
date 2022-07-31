@@ -7,3 +7,5 @@ I am a junior data analyst working on the marketing analyst team at Bellabeat, a
 * Analyze
 * Share
 * Act.
+
+This Project is written in the R programming language.
